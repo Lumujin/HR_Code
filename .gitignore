@@ -1,12 +1,8 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+echo hello world
+System.out.println("hello world");
+printf("hello world");
+print 'hello world'
+<body>hello world</body>
+document.write("hello world")
+print "hello world\n";
+std::cout << "hello world" << std::endl
